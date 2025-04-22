@@ -29,9 +29,9 @@ public class TICapalooza : MonoBehaviour
         recaudadoDePlatea = entradaPlatea * 2000;
         recaudadoTotal = recaudadoDeCampo + recaudadoDePlatea;
 
-        Debug.Log(" La recaudacion de las entradas de campo fueron de " + recaudadoDeCampo);
-        Debug.Log("La recaudacion de las entradas de platea fueron de " + recaudadoDePlatea);
-        Debug.Log("La recaudacion de las entradas de platea fueron de " + recaudadoTotal);
+        Debug.Log(" La recaudacion de las entradas de campo fueron de $" + recaudadoDeCampo);
+        Debug.Log("La recaudacion de las entradas de platea fueron de $" + recaudadoDePlatea);
+        Debug.Log("La recaudacion de las entradas de platea fueron de $" + recaudadoTotal);
 
 
     }
