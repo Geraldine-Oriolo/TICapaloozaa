@@ -34,6 +34,8 @@ public class TICapalooza : MonoBehaviour
         Debug.Log("La recaudacion de las entradas de platea fueron de $" + recaudadoTotal);
 
 
+
+
     }
 
     // Update is called once per frame
